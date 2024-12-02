@@ -1,0 +1,13 @@
+﻿  hangman.cpp
+C:\Users\ahmed\Downloads\oop-project-main\oop-project-main\projectoop\hangman.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  hangmanbest.cpp
+C:\Users\ahmed\Downloads\oop-project-main\oop-project-main\projectoop\hangmanbest.cpp(1,10): fatal  error C1083: Cannot open include file: 'HangmanGame.hpp': No such file or directory
+  hangman3.cpp
+C:\Users\ahmed\Downloads\oop-project-main\oop-project-main\projectoop\hangman3.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  menu.cpp
+C:\Users\ahmed\Downloads\oop-project-main\oop-project-main\projectoop\menu.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  snake.cpp
+C:\Users\ahmed\Downloads\oop-project-main\oop-project-main\projectoop\Snake.h(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  wordle.cpp
+C:\Users\ahmed\Downloads\oop-project-main\oop-project-main\projectoop\Wordle.h(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...

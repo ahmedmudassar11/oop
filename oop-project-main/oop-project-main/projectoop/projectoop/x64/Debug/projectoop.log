@@ -1,0 +1,5 @@
+﻿  menu.cpp
+C:\Users\Dell\source\repos\projectoop\menu.h(47,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'menu.cpp')
+  
+  projectoop.vcxproj -> C:\Users\Dell\source\repos\projectoop\x64\Debug\projectoop.exe
